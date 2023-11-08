@@ -15,6 +15,9 @@ Research Area: Cybersecurity
 09/2022 – till present  
 Research area: Network Security and Information Security  
 
+## PUBLICATION
+
+Qin, X., & Krishnamurthy, P. (2023). *On Post-Quantum Key Establishment*. Manuscript submitted to ACM Conference on Computer and Communications Security (CCS).
 
 
 
