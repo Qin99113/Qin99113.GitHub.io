@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <div style ="margin-right: 20px;">
+  <div style ="margin-right: 20px; width: 200px;">
     <img src="/assets/images/profile.jpg" alt="Profile Image" style="width: 200px; height: 150px;">
   </div>
   <div>
