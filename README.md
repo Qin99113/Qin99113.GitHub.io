@@ -1,4 +1,4 @@
-<img src="/assets/images/profile.jpg" alt="Alt text for image" width="200" height="150">
+<img src="/assets/images/profile.jpg" alt="Alt text for image" width="200" height="250">
 I am a passionate graduate student with research interests in Network/Information Security and Privacy. My research has involved enhancing wireless network protocols through machine learning techniques and ensuring secure data transmission in the quantum world. Additionally, my studies have also delved into Human-Computer Interaction.
 
 ## EDUCATION
@@ -21,4 +21,6 @@ Research area: Network Security and Information Security
 Qin, X., & Krishnamurthy, P. (2023). *On Post-Quantum Key Establishment*. Manuscript submitted to ACM Conference on Computer and Communications Security (CCS).
 
 
+## Research
+**On Post-Quantum Key Establishment** 04/2023 - 08/2023
 
