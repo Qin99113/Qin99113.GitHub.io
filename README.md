@@ -1,4 +1,4 @@
-I am a passionate graduate student with a research interest in Network/Information Security and Privacy. My research has included enhancing a network neighbor discovery protocol using deep learning techniques and establishing post-quantum keys in the quantum world. Additionally, my research extends to the Human-Computer Interaction.
+I am a passionate graduate student with research interests in Network/Information Security and Privacy. My research has involved enhancing wireless network protocols through machine learning techniques and ensuring secure data transmission in the quantum world. Additionally, my studies have also delved into Human-Computer Interaction.
 
 ## EDUCATION
 
