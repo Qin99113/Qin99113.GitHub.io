@@ -1,6 +1,10 @@
-<img src="/assets/images/profile.jpg" alt="Alt text for image" width="200" height="300">
+<div style="display: flex; align-items: center;">
+  <img src="/assets/images/profile.jpg" alt="Profile Image" style="width: 200px; height: 300px; margin-right: 20px;">
+  <div>
+    <p>I am a passionate graduate student with research interests in Network/Information Security and Privacy. My research has involved enhancing wireless network protocols through machine learning techniques and ensuring secure data transmission in the quantum world. Additionally, my studies have also delved into Human-Computer Interaction.</p>
+  </div>
+</div>
 
-I am a passionate graduate student with research interests in Network/Information Security and Privacy. My research has involved enhancing wireless network protocols through machine learning techniques and ensuring secure data transmission in the quantum world. Additionally, my studies have also delved into Human-Computer Interaction.
 
 ## EDUCATION
 
