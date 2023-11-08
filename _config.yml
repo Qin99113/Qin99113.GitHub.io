@@ -2,5 +2,7 @@ remote_theme: pages-themes/architect@v0.2.0
 title: Xiaoxuan(Sherley) Qin
 description: I am pursuing a Ph.D Position for FALL 2024!
 show_downloads: true
+github:
+  cv_url: https://github.com/Qin99113/cv/blob/main/CV_Qin%20Xiaoxuan.pdf
 plugins:
 - jekyll-remote-theme 
