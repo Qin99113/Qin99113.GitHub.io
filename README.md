@@ -1,5 +1,7 @@
 <div style="display: flex; align-items: center;">
-  <img src="/assets/images/profile.jpg" alt="Profile Image" style="width: 200px; height: 300px; margin-right: 20px;">
+  <div style ="margin-right: 20px;">
+    <img src="/assets/images/profile.jpg" alt="Profile Image" style="width: 200px; height: 300px;">
+  </div>
   <div>
     <p>I am a passionate graduate student with research interests in Network/Information Security and Privacy. My research has involved enhancing wireless network protocols through machine learning techniques and ensuring secure data transmission in the quantum world. Additionally, my studies have also delved into Human-Computer Interaction.</p>
   </div>
