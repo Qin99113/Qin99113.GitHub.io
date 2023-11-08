@@ -1,3 +1,11 @@
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 1; margin-right: 20px; max-width: 50%;">
+    <img src="/assets/images/profile.jpg" alt="Profile Image" style="width: 100%; height: auto; max-width: 175px;">
+  </div>
+  <div style="flex: 1; max-width: 50%;">
+    <p>I am a passionate graduate student with research interests in Network/Information Security and Privacy. My research has involved enhancing wireless network protocols through machine learning techniques and ensuring secure data transmission in the quantum world. Additionally, my studies have also delved into Human-Computer Interaction.</p>
+  </div>
+</div>
 
 ## EDUCATION
 
