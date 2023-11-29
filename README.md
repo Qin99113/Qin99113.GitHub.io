@@ -28,6 +28,9 @@ Qin, X., & Krishnamurthy, P. (2023). *On Post-Quantum Key Establishment*. Manusc
 
 
 ## Research
+**Enhancing Neighbor Discovery in Wireless Sensor Networks Using Deep Learning Techniques** 03/2023 - present
+This study turns to recent advancements in deep learning as a potentially feasible alternative for enhancing the neighbor discovery process in WSNs. In stark contrast to the static and predefined protocols of traditional methods, deep learning techniques can harness historical network data to anticipate neighborhood changes and dynamically adapt to them, providing a more fluid and responsive approach to neighbor discovery. 
+
 **On Post-Quantum Key Establishment** 03/2023 - 08/2023
 The primary goal of this research is to enhance secure data transmission in a post-quantum world with mixed post-quantum and pre-quantum secure flows using key pre-distribution methods. 
   <div style="flex: 1; margin: 20px; max-width: 100%; text-align: center">
@@ -39,3 +42,4 @@ The primary goal of this research is to enhance secure data transmission in a po
   <div style="flex: 1; margin: 20px; max-width: 100%; text-align: center">
     <img src="/assets/images/Secure Communication.png" alt="Secure Communication Image" style="width: 100%; height: auto; max-width: 600px;">
   </div>
+
