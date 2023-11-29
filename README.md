@@ -30,12 +30,12 @@ Qin, X., & Krishnamurthy, P. (2023). *On Post-Quantum Key Establishment*. Manusc
 ## Research
 **On Post-Quantum Key Establishment** 03/2023 - 08/2023
 The primary goal of this research is to enhance secure data transmission in a post-quantum world with mixed post-quantum and pre-quantum secure flows using key pre-distribution methods. 
-  <div style="flex: 1; margin: 20px; max-width: 100%;">
-    <img src="/assets/images/Initialization.png" alt="Initialization Image" style="width: 100%; height: auto; max-width: 175px;">
+  <div style="flex: 1; margin: 20px; max-width: 100%; text-align: center">
+    <img src="/assets/images/Initialization.png" alt="Initialization Image" style="width: 100%; height: auto; max-width: 500px;">
   </div>
-  <div style="flex: 1; margin: 20px; max-width: 100%;">
-    <img src="/assets/images/Key Agreement.png" alt="Key Agreement Image" style="width: 100%; height: auto; max-width: 175px;">
+  <div style="flex: 1; margin: 20px; max-width: 100%; text-align: center">
+    <img src="/assets/images/Key Agreement.png" alt="Key Agreement Image" style="width: 100%; height: auto; max-width: 500px;">
   </div>
-  <div style="flex: 1; margin: 20px; max-width: 100%;">
-    <img src="/assets/images/Secure Communication.png" alt="Secure Communication Image" style="width: 100%; height: auto; max-width: 175px;">
+  <div style="flex: 1; margin: 20px; max-width: 100%; text-align: center">
+    <img src="/assets/images/Secure Communication.png" alt="Secure Communication Image" style="width: 100%; height: auto; max-width: 500px;">
   </div>
