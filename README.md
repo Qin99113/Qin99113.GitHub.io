@@ -3,7 +3,7 @@
     <img src="/assets/images/profile.jpg" alt="Profile Image" style="width: 100%; height: auto; max-width: 175px;">
   </div>
   <div style="flex: 1; max-width: 70%;">
-    <p>I am a passionate graduate student with research interests in Network/Information Security and Privacy. My research has involved enhancing wireless network protocols through machine learning techniques and ensuring secure data transmission in the quantum world. Additionally, my studies have also delved into Human-Computer Interaction.</p>
+    <p>I am a passionate PhD student with research interests in **Spectrum Sharing and AI in Spectrum Management**.</p>
   </div>
 </div>
 
@@ -18,28 +18,29 @@ Research Area: Cybersecurity
 
 **University of Pittsburgh**  
 *Pittsburgh, PA*  
-**Master of Information Science** (ongoing)  
-09/2022 – till present  
+**Master of Information Science**   
+09/2022 – 04/2024 
 Research area: Network Security and Information Security  
+
+**University of Pittsburgh**  
+*Pittsburgh, PA*  
+**Doctor of Philosophy in Information Science with Concentration on Telecommunication** (ongoing)  
+09/2024 – till present  
+Research area: Wireless Communication, Spectrum Sharing, AI in Spectrum Management
 
 ## PUBLICATION
 
-Qin, X., & Krishnamurthy, P. (2023). *On Post-Quantum Key Establishment*. Manuscript submitted to ACM Conference on Computer and Communications Security (CCS).
-
 
 ## Research
-**Enhancing Neighbor Discovery in Wireless Sensor Networks Using Deep Learning Techniques** 03/2023 - Present
-This study turns to recent advancements in deep learning as a potentially feasible alternative for enhancing the neighbor discovery process in WSNs. In stark contrast to the static and predefined protocols of traditional methods, deep learning techniques can harness historical network data to anticipate neighborhood changes and dynamically adapt to them, providing a more fluid and responsive approach to neighbor discovery. 
+
+**Analysis of Spectrum Sharing in the 6-7 and 12-13 GHz Bands in Metropolitan Areas** 09/2024 - 11/2024
+
+**Can Congestion Control Benefit from LLM** 10/2024 - 12/2024
 
 **On Post-Quantum Key Establishment** 03/2023 - 08/2023
 The primary goal of this research is to enhance secure data transmission in a post-quantum world with mixed post-quantum and pre-quantum secure flows using key pre-distribution methods. 
   <div style="flex: 1; margin: 20px; max-width: 100%; text-align: center">
     <img src="/assets/images/Initialization.png" alt="Initialization Image" style="width: 100%; height: auto; max-width: 600px;">
   </div>
-  <div style="flex: 1; margin: 20px; max-width: 100%; text-align: center">
-    <img src="/assets/images/Key Agreement.png" alt="Key Agreement Image" style="width: 100%; height: auto; max-width: 600px;">
-  </div>
-  <div style="flex: 1; margin: 20px; max-width: 100%; text-align: center">
-    <img src="/assets/images/Secure Communication.png" alt="Secure Communication Image" style="width: 100%; height: auto; max-width: 600px;">
-  </div>
+
 
